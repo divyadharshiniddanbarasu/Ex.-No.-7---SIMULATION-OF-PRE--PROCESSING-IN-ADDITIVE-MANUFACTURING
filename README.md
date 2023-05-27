@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Divyadharshini.A
+### Register Number: 212222240027
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
